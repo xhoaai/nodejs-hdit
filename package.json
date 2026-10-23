@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-hdit",
+  "version": "1.0.0",
+  "description": "nodejs pro hdit",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xhoaai/nodejs-hdit.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb"
+  ],
+  "author": {
+    "name": "alan",
+    "url": "https://alanhoa.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xhoaai/nodejs-hdit/issues"
+  },
+  "homepage": "https://github.com/xhoaai/nodejs-hdit#readme"
+}
