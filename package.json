@@ -26,5 +26,9 @@
   "homepage": "https://github.com/xhoaai/nodejs-hdit#readme",
   "dependencies": {
     "express": "5.0.1"
+  },
+  "devDependencies": {
+    "@types/express": "file:5.0.0@types/node@22.10.7",
+    "typescript": "5.7.3"
   }
 }
