@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/xhoaai/nodejs-hdit/issues"
   },
-  "homepage": "https://github.com/xhoaai/nodejs-hdit#readme"
+  "homepage": "https://github.com/xhoaai/nodejs-hdit#readme",
+  "dependencies": {
+    "express": "5.0.1"
+  }
 }
