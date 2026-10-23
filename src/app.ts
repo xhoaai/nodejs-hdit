@@ -7,8 +7,12 @@ const app = express();
 
 const PORT = process.env.PORT || 8080;
 
+//config view engine
+app.set('view engine', 'ejs');
+app.set('views', __dirname + '/views');
+
 app.get("/", (req, res) => {
-    res.send(`<h1 style="color: red">Hello World Nodemon</h1> `);
+    res.render("home.ejs")
 })
 
 app.get("/hdit", (req, res) => {
